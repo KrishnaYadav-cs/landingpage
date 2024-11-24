@@ -1,0 +1,144 @@
+body{
+    background-color: black;
+}
+.re
+{
+    color: white;
+}
+.logo
+{
+    margin-top: 1.4ch;
+    margin-left: 5%;
+    mix-blend-mode:multiply;
+    
+    
+   
+}
+header{
+    position: fixed;
+    width: 100%;
+
+    right: 0;
+    display: flex;    
+}
+ul
+{
+    display: flex;
+    margin-left:45%;
+    margin-top: 05%;
+    color: aliceblue;
+    list-style-type: none;
+    gap: 49px;
+    
+}
+.rrr
+{
+    display: flex;  
+    margin-right:49ch;
+    cursor: pointer;
+}
+.rrr a{
+    display: inline-block;
+    margin: 20px;
+   
+
+}
+.rrr a:hover{
+    color: rgb(21, 171, 240);
+}
+.btn
+{
+    color: rgb(247, 247, 248);
+   background-color: rgb(25, 17, 17);
+  border:3px solid black;
+border-radius: 5px;
+margin-top: 3.5%;
+font-size: 16px;
+padding: 5px 12px;
+cursor: pointer;
+border-color: rgb(250, 250, 254);
+margin-left:140ch;
+}
+
+
+a{
+    text-decoration:none ;
+    color: white;
+    font-size: 20px;
+    transition: all .6 ease;
+}
+
+.itt
+{
+    margin-bottom: 200%;
+margin-right: 12ch;
+transform: scaleX(-1);
+filter:brightness(30px) saturate(5);
+}
+
+.pw
+{
+margin-left:5%;
+margin-top: 7%;
+    color: white;
+}
+.bol
+{
+    color: rgb(242, 250, 5);
+    margin-left:6%;
+font-size: 70px;
+text-shadow: 0 0 5px #fcfdf9;
+}
+.hn
+{
+ margin-bottom:1cqmax;
+}
+.rtu{
+z-index: -1;
+position: absolute;
+transform: scaleX(-1);
+border-radius: 20px;
+margin-left: 700px;
+height:550px;
+width: 800px;
+}
+.btn2
+{
+    color: rgb(247, 247, 248);
+    background-color: rgb(51, 188, 16);
+   border:3px solid rgb(17, 48, 3);
+ border-radius: 5px;
+ margin-top: 3.5%;
+ font-size: 16px;
+ padding: 9px 17px;
+ cursor: pointer;
+ 
+ border-color: rgb(221, 162, 130);
+ margin-left:14ch;
+}
+.p2
+{
+  
+    color: white;
+    font-size: 40px;
+}
+.a2
+{
+    color: red;
+}
+footer
+{
+    text-align: center;
+    border: left -1px;ch;
+    height:60px;
+    width:auto;
+    background-color: red;
+    font-size: 30px;
+    margin-top: 2ch;
+    color: white;
+}
+img{
+    aspect-ratio: 3/2;
+    object-fit: contain;
+    
+}
